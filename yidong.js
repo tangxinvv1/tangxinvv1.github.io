@@ -5,6 +5,7 @@ document.write(`
     <li><a class="myButton" href="https://1.365daohang.cv" rel="nofollow" target="_blank"><img src="/tu2/lo.webp" class="nav-icon">➦</a></li>
     <li><a class="myButton" href="https://haijiao.aa545.club" rel="nofollow" target="_blank"><img src="/tu2/hai.webp" class="nav-icon">➦</a></li>
     <li><a class="myButton" href="https://hanxiu.mm545.club" rel="nofollow" target="_blank"><img src="/tu2/han.webp" class="nav-icon">➦</a></li>
+	<li><a class="myButton" href="https://play1.mm545.club/?page=1&type=c5" rel="nofollow" target="_blank"><img src="/tu2/vlog.webp" class="nav-icon">➦</a></li>
     <li><a class="myButton" href="https://19.mm545.club" rel="nofollow" target="_blank"><img src="/tu2/tv.webp" class="nav-icon">➦</a></li>
    
 </div>
